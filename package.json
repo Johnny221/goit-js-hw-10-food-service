@@ -14,12 +14,12 @@
     "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
   },
   "keywords": [],
-  "author": "Vlad Lutsenko <lutsenko.vladyslav@gmail.com>",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/vlad-lutsenko/goit-js-hw-10-food-service",
+  "homepage": "https://github.com/Johnny221/goit-js-hw-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
