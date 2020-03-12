@@ -1,5 +1,3 @@
-# Webpack starter kit
-
 [Живая страница](https://johnny221.github.io/webpack-starter-kit/) после деплоя
 через `npm run deploy`.
 
